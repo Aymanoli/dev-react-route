@@ -1,2 +1,1 @@
-# [DevCourse](https://devcourse.netlify.app/)
-## Category: Educational Site
+live site link: https://devcourse-react-router.netlify.app/
