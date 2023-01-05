@@ -19,7 +19,7 @@ const Contact = () => {
                         <div className="d-flex flex-column justify-content-center align-items-center">
                             <svg className="feather feather-mail" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="#1360EF" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
                             <h4>Email:</h4>
-                            <span className="special-text">ibuhossain3@gmail.com</span>
+                            <span className="special-text">aymanoli777@gmail.com</span>
                         </div>
                     </Col>
                     <Col md={4}>
@@ -58,7 +58,7 @@ const Contact = () => {
                                 <label className="text-secondary mx-2" htmlFor="floatingTextarea2">Messages</label>
                             </div>
                             <div className="col-12 text-center">
-                                <button className="btn btn-primary">Send Messages</button>
+                                <button className="btn btn-success">Send Messages</button>
                             </div>
                         </form>
                     </div>

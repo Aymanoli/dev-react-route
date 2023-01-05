@@ -17,7 +17,7 @@
     margin-top: auto;
     display: block;
     width: 100%;
-    background-color: #1360EF;
+    background-color: #DE3163;
     color: white;
     /* text-align: center; */
 }
@@ -36,7 +36,7 @@
 .footer-card{
     width: 280px;
     padding: 20px;
-    background-color: #2A6CE3;
+    background-color: #DE3163;
     border-radius: 10px;
 }
 .footer-card *{
